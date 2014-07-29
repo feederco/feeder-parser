@@ -1,0 +1,28 @@
+{
+  "name": "feeder-parser",
+  "version": "1.0.0",
+  "description": "A pragmatic RSS parser. Open source parser for feeder.co",
+  "main": "feeder-parser",
+  "homepage": "http://feeder.co",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rss",
+    "feeds",
+    "atom",
+    "parser"
+  ],
+  "author": "Erik Rothoff Andersson <erik.rothoff@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erkie/feeder-parser.git"
+  },
+  "dependencies": {
+    "cheerio": "0.*",
+    "moment": "2.0.0",
+    "entities": "1.*",
+    "root-class": "1.*"
+  }
+}
