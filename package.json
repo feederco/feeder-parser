@@ -1,6 +1,6 @@
 {
   "name": "feeder-parser",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A pragmatic RSS parser. Open source parser for feeder.co",
   "main": "feeder-parser",
   "homepage": "http://feeder.co",
