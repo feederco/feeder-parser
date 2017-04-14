@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "cheerio": "0.*",
-    "moment": "2.0.0",
+    "moment": "2.18.1",
     "entities": "1.*",
     "root-class": "1.*"
   }
