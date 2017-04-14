@@ -2,6 +2,8 @@
 feeder-parser
 =============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/feederco/feeder-parser.svg)](https://greenkeeper.io/)
+
 An extremely pragmatic approach to parsing RSS and Atom feeds. Used to run [feeder.co](http://feeder.co) extension and pro service.
 
 Tests need to be ported to this repo...
